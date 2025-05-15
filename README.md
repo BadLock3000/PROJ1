@@ -1,8 +1,5 @@
-# React + Vite
+В репозторях PROJ  и PROJ1  находится открытый код сайта автопроверок ЛР для кафедры ТКС МИЭТ.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Разработчики Петров Артём(frontend  и backend ) и Фалеев Артём(backend и DevOPs)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Сайт находится еще в разработке
